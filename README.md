@@ -1,2 +1,2 @@
-# mi-primer-repositorio-2
+# mi primer README
 Segui,os con el repositorioa
